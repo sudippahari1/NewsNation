@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "abc-news-au", "name": "ABC News (AU)" },
+      "author": "Brittany Carter",
+      "title": "Women's Ashes top 20: Amanda-Jade Wellington's 'ball of the century'",
+      "description": "Amanda-Jade Wellington has had a complicated relationship with the women's national cricket team, but her magnificent flight and turn was one of Australia's biggest assets in the Ashes Test of 2017.",
+      "url": "http://www.abc.net.au/news/2022-02-01/wellington-ball-of-the-century-womens-ashes-top-20-article/100796070",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/ac1115fb55e4927816b9080321d058af?impolicy=wcms_crop_resize&cropH=1687&cropW=3000&xPos=0&yPos=157&width=862&height=485",
+      "publishedAt": "2022-02-01T06:43:35Z",
+      "content": "It was a ball that left commentators gushing and later went viral for its comparisons to Shane Warne's 1993 Gatting 'ball of the century'.\r\n\"Amanda-Jade Wellington has bowled an absolute peach.\"\r\n\"Th… [+7287 chars]"
+    },
+    {
+      "source": { "id": "abc-news-au", "name": "ABC News (AU)" },
+      "author": "Dean Bilton",
+      "title": "Justin Langer's future as Australian cricket coach remains as complicated as his reign",
+      "description": "Fresh from leading Australia to glory at the T20 World Cup and in the Ashes, Justin Langer is fighting for his job. It's the latest chapter in his complicated reign, writes Dean Bilton.",
+      "url": "http://www.abc.net.au/news/2022-02-01/justin-langer-future-as-australia-coach-in-the-air-contract/100795092",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/2a8df629b2fbdc2707171a0a6a089f95?impolicy=wcms_crop_resize&cropH=2044&cropW=3633&xPos=0&yPos=74&width=862&height=485",
+      "publishedAt": "2022-02-01T02:07:27Z",
+      "content": "Justin Langer beamed as he strolled across Bellerive Oval, floodlights illuminating another stunning Ashes triumph for his Australia Test team.\r\nHe embraced each and every one of his players, from Pa… [+5105 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
